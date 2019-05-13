@@ -1,0 +1,15 @@
+.login-page {
+  width: 800px;
+  padding: 1% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 800px;
+  margin: 0 auto 50px;
+  padding: 35px;
+  text-align: 
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}

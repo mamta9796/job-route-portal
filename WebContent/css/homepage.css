@@ -1,0 +1,76 @@
+ 	
+	        ul#menu{
+		padding:20px;
+		width:100%;
+		background-color:blue;
+                
+		}
+		ul#menu li{
+		display:inline
+		}
+		ul#menu li a{
+		background-color:blue;
+		color:white;
+		text-decoration:none;
+		padding:10px;
+		margin-right:5px;
+		}
+		ul.dropdown-menu li{
+		display:inline
+		}
+         ul.dropdown-menu a{
+		 background-color:white;
+		color:blue;
+		text-decoration:none;
+		padding:10px;
+		margin-right:5px;
+		 
+		 }
+          div.print_icon{
+                position:absolute;
+                top:10px;
+                left:1200px;
+                
+                }
+          div.img1{
+        position:absolute;
+        top:5px;
+       left:10px;
+       
+     }
+        div.img2{
+        position:absolute;
+        left:200px;
+        width:85%;
+}
+      div#myCarousel{ 
+       	  
+        width:1320px;
+        height:330px;
+	   margin-left:10px;
+       margin-right:-10px;
+       margin-top:70px	;   	      
+      
+
+}
+div.item{ 
+       	  
+        width:1338px;
+        height:330px;   	      
+      
+
+}
+
+
+          div.job_search{ 
+                 margin-left:800px;
+                 margin-bottom:65px;
+}
+      div.img3{clear:both;
+        margin-left:10px;
+        margin-right:1px;
+        margin-top:60px;		
+      
+}
+
+        
